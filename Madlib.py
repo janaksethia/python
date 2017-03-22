@@ -1,8 +1,4 @@
-
-# coding: utf-8
-
-# In[4]:
-
+# Madlib Game in Python
 Noun = ["SUPERMAN","SPIDERMAN","BATMAN","LAWYER","LIBRARIAN","PILOT"]
 Verb = ["PLAYING","STUDYING","DANCING","LAUGHING"]
 Adverb = ["ACCIDENTALLY","HERIOCALLY","EMOTIONALLY","AMUSINGLY"]
@@ -50,10 +46,6 @@ print "Thank you for playing madlib; here are your ", len(madlib), " unique sent
 for each_sentence in madlib:
     print each_sentence
 
-
-#  
-
-# In[ ]:
 
 
 
